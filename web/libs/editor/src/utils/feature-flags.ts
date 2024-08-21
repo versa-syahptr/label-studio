@@ -13,9 +13,6 @@ export const FF_DEV_1270 = "ff_front_dev_1270_fullscreen_timeline_expand_090322_
  */
 export const FF_DEV_1284 = "fflag_fix_front_dev_1284_auto_detect_undo_281022_short";
 
-// Fix crosshair working with zoom & rotation
-export const FF_DEV_1285 = "ff_front_dev_1285_crosshair_wrong_zoom_140122_short";
-
 export const FF_DEV_1442 = "ff_front_dev_1442_unselect_shape_on_click_outside_080622_short";
 
 // Keep enabled state of video region on area transformations

@@ -13,9 +13,6 @@ export const FF_DEV_1270 = "ff_front_dev_1270_fullscreen_timeline_expand_090322_
  */
 export const FF_DEV_1284 = "fflag_fix_front_dev_1284_auto_detect_undo_281022_short";
 
-// Fix crosshair working with zoom & rotation
-export const FF_DEV_1285 = "ff_front_dev_1285_crosshair_wrong_zoom_140122_short";
-
 // Add visibleWhen="choice-unselected" option
 export const FF_DEV_1372 = "ff_front_dev_1372_visible_when_choice_unselected_11022022_short";
 
