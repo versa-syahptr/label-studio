@@ -21,9 +21,6 @@ export const FF_DEV_1442 = "ff_front_dev_1442_unselect_shape_on_click_outside_08
 // Keep enabled state of video region on area transformations
 export const FF_DEV_1494 = "ff_front_dev_1494_keep_enabled_on_update_090322_short";
 
-// Fix stuck userpic
-export const FF_DEV_1507 = "ff_front_DEV_1507_stuck_userpic_210122_short";
-
 // User labels for Taxonomy
 export const FF_DEV_1536 = "ff_front_dev_1536_taxonomy_user_labels_150222_long";
 
